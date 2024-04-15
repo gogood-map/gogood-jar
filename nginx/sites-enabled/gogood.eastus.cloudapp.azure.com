@@ -1,0 +1,1 @@
+/etc/nginx/sites-available/gogood.eastus.cloudapp.azure.com
